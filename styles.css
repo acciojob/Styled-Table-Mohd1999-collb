@@ -1,1 +1,21 @@
 /* your code */
+td, th{
+	width:50em;
+	height: 3em
+}
+
+thead{
+	background-color:#215A8E;
+	collaps:no
+}
+
+tr:nth-child(even){
+	background-color: #DDDDDD;
+/* 	border:5px solid blue; */
+}
+
+table{
+	text-align:center;
+	border-collapse: collapse;
+/* 	border:2px solid red; */
+}
